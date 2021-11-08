@@ -19,7 +19,7 @@ The six admendment allows for a person to get a speedy and public trial. This is
 ## Checks and Balances
 *please react kindly to the image, it was made in ms paint*
 
-![Checks and Balances](../images/Untitled.png?raw=true)
+![Checks and Balances](../main/images/Untitled.png?raw=true)
 ---
 
 ## 3 Branches of Government
@@ -33,6 +33,12 @@ The six admendment allows for a person to get a speedy and public trial. This is
 ---
 
 ## Compromises
+
+| **Name** | Virginia Plan | New Jersey Plan |
+| --- | --- | --- |
+| **Who Proposed** | James Madison | William Paterson |
+| **Proposed Elements** | Strong national government with three branches: legislative, executive, and judicial. | Equal votes of states and an executive elected by a national legislature. |
+
 
 
 
