@@ -19,7 +19,7 @@ The six admendment allows for a person to get a speedy and public trial. This is
 ## Checks and Balances
 *please react kindly to the image, it was made in ms paint*
 
-![Checks and Balances](https://pasteboard.co/n8gkuCt1rhFY.png)
+![Checks and Balances](../images/Untitled.png)
 
 ---
 
